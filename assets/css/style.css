@@ -1,0 +1,68 @@
+html {
+    font-family:"Anybody", sans-serif;
+    font-style: normal;
+    background: black;
+    color: white;
+    border: 5px solid green;
+    margin: auto;
+}
+
+body {
+    border: 1px solid blue;
+    margin: 15px;
+}
+
+header {
+    border: 1px solid red;
+    height: 132px;
+    width: auto;
+    display: flex;
+    align-items: center;
+}
+main {
+    border: 1px solid green;
+    height: auto;
+    width: auto;
+}
+footer {
+    border: 1px solid purple;
+    height: 400px;
+    width: auto;
+}
+#logotipo {
+    font-size: 50px;
+}
+.container {
+    max-width: 1200px;
+    margin: 0;
+    padding: 0 15px;
+}
+
+.buttons {
+    height: 70px;
+    width: 855px;
+    align-items: center;
+    display: flex;
+}
+
+.buttons li {
+    display: inline;
+    align-items: center;
+    padding: 15px 5px; 
+}
+
+.buttons button {
+    width: 255px;
+    height: 50px;
+    margin: auto;
+    font-size: large;
+    font-family: "Anybody", sans-serif;
+    border-radius: 15px;
+    box-shadow: white 100%;
+    background: transparent;
+    color: white;
+    border: 1px solid white;
+    
+}
+
+
