@@ -1,0 +1,51 @@
+* {
+    margin: auto;
+    background: black;
+    color: white;
+    font-family: "Anybody", sans-serif;
+    align-items: center;
+}
+
+header {
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 15px;
+    display: flex;    
+}
+
+header > .logotipo {
+    margin: inherit;     
+}
+
+header > .btn-header {
+    margin-right: 15px;
+}
+
+header > .btn-header > a {
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 5px;
+}
+
+
+[title="about-me"] {
+    border: 1px solid white;
+    padding: 15px;
+    margin: 15px;
+    height: 150px;
+    width: 1400px;
+}
+
+
+
+
+
+ 
+
+
+
+
+
+
